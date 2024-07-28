@@ -9,8 +9,7 @@ function About() {
 					<a href='/' className='text-white-400 hover:text-gray-200'>
 						Main
 					</a>
-
-					<a className='text-gray-400'>About</a>
+					<h2 className='text-gray-400'>About</h2>
 					<a
 						href='mailto:varunkanna1@outlook.com'
 						className='text-white-400 hover:text-gray-200'>
@@ -36,18 +35,21 @@ function About() {
 					<a
 						href='https://twitter.com/varunk_1'
 						target='_blank'
+						rel='noreferrer'
 						className='text-gray-400 hover:text-gray-200'>
 						Twitter
 					</a>
 					<a
 						href='https://github.com/varun-kanna'
 						target='_blank'
+						rel='noreferrer'
 						className='text-gray-400 hover:text-gray-200'>
 						GitHub
 					</a>
 					<a
 						href='https://www.linkedin.com/in/varun-kanna/'
 						target='_blank'
+						rel='noreferrer'
 						className='text-gray-400 hover:text-gray-200'>
 						LinkedIn
 					</a>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Home() {
 	return (
@@ -7,9 +7,7 @@ function Home() {
 			<div className='max-w-2xl justify-center'>
 				<h1 className='text-3xl font-bold pb-4 pt-8'>Varun Kanna</h1>
 				<div className='flex space-x-4 mb-8'>
-					<a href='' className='text-gray-400'>
-						Main
-					</a>
+					<h2 className='text-gray-400'>Main</h2>
 					<Link to='/about' className='text-white-400 hover:text-gray-200'>
 						About
 					</Link>
@@ -91,18 +89,21 @@ function Home() {
 					<a
 						href='https://twitter.com/varunk_1'
 						target='_blank'
+						rel='noreferrer'
 						className='text-gray-400 hover:text-gray-200'>
 						Twitter
 					</a>
 					<a
 						href='https://github.com/varun-kanna'
 						target='_blank'
+						rel='noreferrer'
 						className='text-gray-400 hover:text-gray-200'>
 						GitHub
 					</a>
 					<a
 						href='https://www.linkedin.com/in/varun-kanna/'
 						target='_blank'
+						rel='noreferrer'
 						className='text-gray-400 hover:text-gray-200'>
 						LinkedIn
 					</a>
