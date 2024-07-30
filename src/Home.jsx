@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Home() {
 	return (
-		<div className='bg-gray-700 text-white font-sans flex items-center justify-center min-h-screen'>
+		<div className='bg-gray-700 text-white font-sans flex items-center justify-center min-h-screen max-660:pl-10px'>
 			<div className='max-w-2xl justify-center'>
 				<h1 className='text-3xl font-bold pb-4 pt-8'>Varun Kanna</h1>
 				<div className='flex space-x-4 mb-8'>
