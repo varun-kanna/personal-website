@@ -20,6 +20,7 @@ function Home() {
 					<a
 						href='/resume.pdf'
 						target='_blank'
+						rel='noopener noreferrer'
 						className='text-white-400 hover:text-gray-200'>
 						Resume
 					</a>

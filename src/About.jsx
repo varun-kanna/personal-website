@@ -15,7 +15,11 @@ function About() {
 						className='text-white-400 hover:text-gray-200'>
 						Contact
 					</a>
-					<a href='/resume.pdf' className='text-white-400 hover:text-gray-200'>
+					<a
+						href='/resume.pdf'
+						target='_blank'
+						rel='noopener noreferrer'
+						className='text-white-400 hover:text-gray-200'>
 						Resume
 					</a>
 				</div>
