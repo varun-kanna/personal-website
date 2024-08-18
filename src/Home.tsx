@@ -27,18 +27,6 @@ function Home() {
 
 				<h2 className='font-bold pb-6 text-lg text-zinc-300'>Experience</h2>
 				<h3 className='text-secondary'>
-					Building an internal app @{' '}
-					<a
-						href='https://www.inv8.com/'
-						className='underline hover:text-gray-200'>
-						Innovate Mobile
-					</a>
-				</h3>
-				<h3>
-					TypeScript, JavaScript, React.js, Express.js, Node.js, MongoDB, Python
-				</h3>
-				<h3 className='pb-6'>Spring 2024</h3>
-				<h3 className='text-secondary'>
 					Chosen to participate in the accelerate program @{' '}
 					<a
 						href='https://www.ibm.com/us-en'
@@ -51,6 +39,18 @@ function Home() {
 					Development
 				</h3>
 				<h3 className='pb-6'>Summer 2024</h3>
+				<h3 className='text-secondary'>
+					Building an internal app @{' '}
+					<a
+						href='https://www.inv8.com/'
+						className='underline hover:text-gray-200'>
+						Innovate Mobile
+					</a>
+				</h3>
+				<h3>
+					TypeScript, JavaScript, React.js, Express.js, Node.js, MongoDB, Python
+				</h3>
+				<h3 className='pb-6'>Spring 2024</h3>
 
 				<h2 className='font-bold pb-6 text-lg text-zinc-300'>Projects</h2>
 				<h3 className='text-secondary'>
