@@ -5,8 +5,11 @@ module.exports = {
 			colors: {
 				darkest: '#222831',
 				sdarkest: '#31363F',
-				secondary: '#76ABAE',
+				secondary: '#88EFFC',
+				secondayHover: '#D3E6E9',
 				main: '#EEEEEE',
+				darkBlue: '#2B4869',
+				lightBlue: '#CADCFC',
 			},
 			padding: {
 				'10px': '10px',
