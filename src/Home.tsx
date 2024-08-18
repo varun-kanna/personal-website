@@ -34,7 +34,9 @@ function Home() {
 						Innovate Mobile
 					</a>
 				</h3>
-				<h3>React.js, Express.js, Node.js, MongoDB, JavaScript, Python</h3>
+				<h3>
+					TypeScript, JavaScript, React.js, Express.js, Node.js, MongoDB, Python
+				</h3>
 				<h3 className='pb-6'>Spring 2024</h3>
 				<h3 className='text-secondary'>
 					Chosen to participate in the accelerate program @{' '}
