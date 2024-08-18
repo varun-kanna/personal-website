@@ -94,25 +94,25 @@ function Home() {
 						href='https://twitter.com/varunk_1'
 						target='_blank'
 						rel='noreferrer'
-						className='text-gray-400 hover:text-gray-600'>
+						className='text-gray-200 hover:text-gray-300'>
 						Twitter
 					</a>
 					<a
 						href='https://github.com/varun-kanna'
 						target='_blank'
 						rel='noreferrer'
-						className='text-gray-400 hover:text-gray-600'>
+						className='text-gray-200 hover:text-gray-300'>
 						GitHub
 					</a>
 					<a
 						href='https://www.linkedin.com/in/varun-kanna/'
 						target='_blank'
 						rel='noreferrer'
-						className='text-gray-400 hover:text-gray-600'>
+						className='text-gray-200 hover:text-gray-300'>
 						LinkedIn
 					</a>
 				</div>
-				<div className='mt-8 text-sm text-gray-400'>© Varun Kanna</div>
+				<div className='mt-8 text-sm text-gray-200'>© Varun Kanna</div>
 			</div>
 		</div>
 	);
