@@ -77,7 +77,7 @@ function Home() {
 						Devpost
 					</a>
 				</h3>
-				<h3 className='pb-6'>CalHacks 11.0</h3>
+				<h3 className='pb-6'>CalHacks 11.0 - 2024</h3>
 				<h3 className='text-secondary'>
 					SelfTour -{' '}
 					<a
@@ -86,7 +86,7 @@ function Home() {
 						Devpost
 					</a>
 				</h3>
-				<h3 className='pb-6'>SF Hacks 2024</h3>
+				<h3 className='pb-6'>SF Hacks - 2024</h3>
 
 				<h3 className='text-secondary'>
 					SmokeScreen -{' '}
@@ -96,7 +96,7 @@ function Home() {
 						Devpost
 					</a>
 				</h3>
-				<h3>ACMHacks x GraceHacks 2023</h3>
+				<h3>ACMHacks x GraceHacks - 2023</h3>
 
 				<div className='flex space-x-4 mt-8'>
 					<a
