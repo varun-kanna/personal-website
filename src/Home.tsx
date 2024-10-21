@@ -70,6 +70,15 @@ function Home() {
 					Hackathons
 				</h2>
 				<h3 className='text-secondary'>
+					MedSmart -{' '}
+					<a
+						href='https://devpost.com/software/medtalk-mv4xkc'
+						className='underline hover:text-cyan-400'>
+						Devpost
+					</a>
+				</h3>
+				<h3 className='pb-6'>CalHacks 11.0</h3>
+				<h3 className='text-secondary'>
 					SelfTour -{' '}
 					<a
 						href='https://devpost.com/software/selftours'
