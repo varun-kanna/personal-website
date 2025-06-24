@@ -9,7 +9,9 @@ function Home() {
 				</h1>
 				<div className='flex space-x-4 mb-8'>
 					<h2 className='text-cyan-200'>Main</h2>
-					<Link to='/about' className='text-gray-100 hover:text-gray-200'>
+					<Link
+						to='/about'
+						className='text-gray-100 hover:text-gray-200'>
 						About
 					</Link>
 
@@ -27,7 +29,42 @@ function Home() {
 					</a>
 				</div>
 
-				<h2 className='font-bold pb-6 text-lg text-zinc-200'>Experience</h2>
+				<h2 className='font-bold pb-6 text-lg text-zinc-200'>
+					Experience
+				</h2>
+				<h3 className='text-secondary'>
+					SWE @{' '}
+					<a
+						href='https://www.ibm.com/us-en'
+						className='underline hover:text-cyan-400'>
+						Credo Semiconductor
+					</a>
+				</h3>
+				<h3>Skills </h3>
+				<h3 className='pb-6'>Current</h3>
+				{/*  */}
+				<h3 className='text-secondary'>
+					Full-Stack Development for Data Visualization @{' '}
+					<a
+						href='https://www.ibm.com/us-en'
+						className='underline hover:text-cyan-400'>
+						Keysight Technologies
+					</a>
+				</h3>
+				<h3>Angular, Python, InfluxDB, SQLite, Express.js </h3>
+				<h3 className='pb-6'>Winter & Spring 2025</h3>
+				{/*  */}
+				<h3 className='text-secondary'>
+					Testing, Automation, Pipelines @{' '}
+					<a
+						href='https://www.ibm.com/us-en'
+						className='underline hover:text-cyan-400'>
+						SS&C Technologies
+					</a>
+				</h3>
+				<h3>Python, Jenkins, Groovy, Locust, React.js, Flask</h3>
+				<h3 className='pb-6'>Summer 2024</h3>
+				{/*  */}
 				<h3 className='text-secondary'>
 					Chosen to participate in the accelerate program @{' '}
 					<a
@@ -37,10 +74,11 @@ function Home() {
 					</a>
 				</h3>
 				<h3>
-					JavaScript, React.js, Express.js, REST APIs, Generative AI, Cloud
-					Development
+					JavaScript, React.js, Express.js, REST APIs, Generative AI,
+					Cloud Development
 				</h3>
 				<h3 className='pb-6'>Summer 2024</h3>
+				{/*  */}
 				<h3 className='text-secondary'>
 					Building an internal app @{' '}
 					<a
@@ -50,11 +88,14 @@ function Home() {
 					</a>
 				</h3>
 				<h3>
-					TypeScript, JavaScript, React.js, Express.js, Node.js, MongoDB, Python
+					TypeScript, JavaScript, React.js, Express.js, Node.js,
+					MongoDB, Python
 				</h3>
 				<h3 className='pb-6'>Spring 2024</h3>
 
-				<h2 className='font-bold pb-6 text-lg text-zinc-200'>Projects</h2>
+				<h2 className='font-bold pb-6 text-lg text-zinc-200'>
+					Projects
+				</h2>
 				<h3 className='text-secondary'>
 					SpotYt -{' '}
 					<a
