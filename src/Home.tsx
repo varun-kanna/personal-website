@@ -44,7 +44,7 @@ function Home() {
 				<h3 className='pb-6'>Current</h3>
 				{/*  */}
 				<h3 className='text-secondary'>
-					Full-Stack Development for Data Visualization @{' '}
+					Full-Stack Development doing Data Visualization @{' '}
 					<a
 						href='https://www.ibm.com/us-en'
 						className='underline hover:text-cyan-400'>
