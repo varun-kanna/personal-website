@@ -35,7 +35,7 @@ function Home() {
 				<h3 className='text-secondary'>
 					SWE @{' '}
 					<a
-						href='https://www.ibm.com/us-en'
+						href='https://credosemi.com/'
 						className='underline hover:text-cyan-400'>
 						Credo Semiconductor
 					</a>
@@ -46,7 +46,7 @@ function Home() {
 				<h3 className='text-secondary'>
 					Full-Stack Development doing Data Visualization @{' '}
 					<a
-						href='https://www.ibm.com/us-en'
+						href='https://www.keysight.com/us/en/home.html'
 						className='underline hover:text-cyan-400'>
 						Keysight Technologies
 					</a>
@@ -57,7 +57,7 @@ function Home() {
 				<h3 className='text-secondary'>
 					Testing, Automation, Pipelines @{' '}
 					<a
-						href='https://www.ibm.com/us-en'
+						href='https://www.ssctech.com/'
 						className='underline hover:text-cyan-400'>
 						SS&C Technologies
 					</a>
